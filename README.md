@@ -1,6 +1,6 @@
 # yaashviipthakkarr.github.io
 
-This is my personal website written in html with the template support from Bedimcode.
+This is my personal website written in HTML, CSS and Javascript with the template support from Bedimcode.
 
 ## Page Description
 - index.html: main page including information about me, the link to my resume, professional and educational journey and some projects
